@@ -5,3 +5,5 @@ Added line by developer 2 inside master
 
 Line thired added inside developer1 branch
 
+
+change and push on master github
