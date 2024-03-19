@@ -1,6 +1,14 @@
 Hello this is my First commit
 hello this second Commit
 
+
 Line thired added inside developer1 branch
 
 Push on Github
+
+Added line by developer 2 inside master
+
+Line thired added inside developer1 branch
+
+
+change and push on master github
