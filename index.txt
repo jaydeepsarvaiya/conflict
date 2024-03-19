@@ -1,5 +1,7 @@
 Hello this is my First commit
 hello this second Commit
 
-
 Added line by developer 2 inside master
+
+Line thired added inside developer1 branch
+
